@@ -1,0 +1,1287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Booster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 11:49+0530\n"
+"PO-Revision-Date: 2017-04-25 11:49+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Norwegian (Norway)\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 18545\n"
+"X-Loco-Api-Version: 1.0.15 20161124-2\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations.php:180
+msgid "If Interested, Kindly click "
+msgstr "Hvis interessert, kan du klikke Vennligst"
+
+#: includes/translations.php:181
+msgid "here."
+msgstr "her."
+
+#: includes/translations.php:190
+msgid "Upgrade"
+msgstr "oppgradering"
+
+#: includes/translations.php:191
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Denne funksjonen er kun tilgjengelig i premiumversjoner <br> Vennligst kjøp "
+"for å få tilgang til funksjonene!"
+
+#: includes/translations.php:192
+msgid "Premium Edition"
+msgstr "Premium Edition"
+
+#: includes/translations.php:195
+msgid "Basic Info"
+msgstr "Grunnleggende informasjon"
+
+#: includes/translations.php:196
+msgid "Account Setup"
+msgstr "Konfigurasjon av kontoen"
+
+#: includes/translations.php:197
+msgid "Confirm"
+msgstr "Bekreft"
+
+#: includes/translations.php:200 includes/translations.php:435
+msgid "Mail Booster"
+msgstr "Mail Booster"
+
+#: includes/translations.php:201
+msgid "Email Configuration"
+msgstr "Oppsett av e-post"
+
+#: includes/translations.php:202
+msgid "Test Email"
+msgstr "Test e-post"
+
+#: includes/translations.php:203
+msgid "Email Logs"
+msgstr "E-postlogger"
+
+#: includes/translations.php:204
+msgid "Email Log Details"
+msgstr "E-post logg detaljer"
+
+#: includes/translations.php:205
+msgid "Plugin Settings"
+msgstr "Innstillinger for utvidelsen"
+
+#: includes/translations.php:206
+msgid "Feedbacks"
+msgstr "Tilbakemeldinger"
+
+#: includes/translations.php:207
+msgid "Roles & Capabilities"
+msgstr "Roller og rettigheter"
+
+#: includes/translations.php:208
+msgid "System Information"
+msgstr "Systeminformasjon"
+
+#: includes/translations.php:209 includes/translations.php:436
+msgid "Error Logs"
+msgstr "Feillogger"
+
+#: includes/translations.php:212
+msgid "Translation Request"
+msgstr "Forespørsel om å oversette"
+
+#: includes/translations.php:213 includes/translations.php:420
+msgid "Your Name"
+msgstr "Ditt navn"
+
+#: includes/translations.php:214
+msgid ""
+"In this field, you would need to provide your Name which will be sent along "
+"with your Feature Request"
+msgstr ""
+"I dette feltet, ville du trenger å oppgi navn som vil bli sendt sammen med "
+"Feature Request"
+
+#: includes/translations.php:215 includes/translations.php:422
+msgid "Please provide your Name"
+msgstr "Vennligst skriv inn ditt navn"
+
+#: includes/translations.php:216
+msgid ""
+"In this field, you would need to provide your Name which will be sent along "
+"with your request"
+msgstr ""
+"I dette feltet, ville du trenger å oppgi navn som vil bli sendt sammen med "
+"din forespørsel"
+
+#: includes/translations.php:217 includes/translations.php:425
+msgid "Please provide your Email Address"
+msgstr "Vennligst skriv inn din e-postadresse"
+
+#: includes/translations.php:218 includes/translations.php:423
+msgid "Your Email"
+msgstr "Din e-postadresse"
+
+#: includes/translations.php:219
+msgid ""
+"In this field, you would need to provide your valid Email which will be sent "
+"along with your request"
+msgstr ""
+"I dette feltet, ville du må oppgi gyldig e-post som sendes sammen med din "
+"forespørsel"
+
+#: includes/translations.php:220
+msgid "Language Interested to Translate"
+msgstr "Språk du er interessert i å oversette til"
+
+#: includes/translations.php:221
+msgid "Please enter the language you want to translate."
+msgstr "Fyll inn det språket du vil oversette ."
+
+#: includes/translations.php:222
+msgid "Please enter the language"
+msgstr "Fyll inn språket"
+
+#: includes/translations.php:224
+msgid "Query"
+msgstr "Spørsmål"
+
+#: includes/translations.php:225
+msgid "Please enter your query."
+msgstr "Skriv inn søket."
+
+#: includes/translations.php:226
+msgid "Please enter the query."
+msgstr "Fyll inn spørringen ."
+
+#: includes/translations.php:227 includes/translations.php:361
+msgid "Close"
+msgstr "Steng"
+
+#: includes/translations.php:228
+msgid "Send Request"
+msgstr "Send forespørsel"
+
+#: includes/translations.php:229
+msgid "Your request Email has been sent Successfully"
+msgstr "Din forespørsel E-post er sendt"
+
+#: includes/translations.php:230
+msgid "Are you sure you want to close without sending Translation Request?"
+msgstr ""
+"Er du sikker på at du vil stenge uten å sende en forespørsel om oversetting?"
+
+#: includes/translations.php:233
+msgid "Success!"
+msgstr "Suksess!"
+
+#: includes/translations.php:234
+msgid "Email Configuration has been updated Successfully"
+msgstr "E-postoppsettet har blitt oppdatert"
+
+#: includes/translations.php:235
+msgid "Your Feedback has been sent Successfully"
+msgstr "Din tilbakemelding har blitt sendt inn"
+
+#: includes/translations.php:236
+msgid "Test Email was sent Successfully!"
+msgstr "Test e-posten ble sendt!"
+
+#: includes/translations.php:237
+msgid "Test Email was not sent!"
+msgstr "Test e-posten ble ikke sendt!"
+
+#: includes/translations.php:238
+msgid "Plugin Settings have been updated Successfully"
+msgstr "Innstillingene for utvidelsen har blitt oppdatert"
+
+#: includes/translations.php:239
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"OAuth er ikke støttet ved å oppgi SMTP-vert, vennligst skriv inn brukernavn "
+"og passord"
+
+#: includes/translations.php:242
+msgid "Sent"
+msgstr "Sendt"
+
+#: includes/translations.php:243
+msgid "Not Sent"
+msgstr "Ikke sendt"
+
+#: includes/translations.php:244
+msgid "Important Disclaimer!"
+msgstr "Ansvarsfraskrivelse!"
+
+#: includes/translations.php:245
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Du har ikke nødvendige rettigheter for å få adgang til denne siden. "
+"Vennligst kontakt din administrator for å få flere rettigheter"
+
+#: includes/translations.php:246
+msgid "Enable"
+msgstr "Aktiver"
+
+#: includes/translations.php:247
+msgid "Disable"
+msgstr "Deaktiver"
+
+#: includes/translations.php:248
+msgid "Override"
+msgstr "Overstyring"
+
+#: includes/translations.php:249
+msgid "Don't Override"
+msgstr "Ikke overstyr"
+
+#: includes/translations.php:250
+msgid "Save Settings"
+msgstr "Lagre innstillingene"
+
+#: includes/translations.php:251
+msgid "Subject"
+msgstr "Emne"
+
+#: includes/translations.php:252
+msgid "Next Step"
+msgstr "Neste steg"
+
+#: includes/translations.php:253
+msgid "Previous Step"
+msgstr "Forrige steg"
+
+#: includes/translations.php:256 includes/translations.php:388
+msgid "Connectivity Test"
+msgstr "Tilkoblingstest"
+
+#: includes/translations.php:257
+msgid "Transport"
+msgstr "Transportere"
+
+#: includes/translations.php:258
+msgid "Socket"
+msgstr "Stikkontakt"
+
+#: includes/translations.php:259 includes/translations.php:366
+msgid "Status"
+msgstr "Status"
+
+#: includes/translations.php:260
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:261
+msgid "Outgoing Mail Server Hostname"
+msgstr "Utgående e-postserver vertsnavn"
+
+#: includes/translations.php:262
+msgid "Begin Test"
+msgstr "Begynn test"
+
+#: includes/translations.php:263
+msgid "localhost"
+msgstr "localhost"
+
+#: includes/translations.php:264
+msgid "In this field, you would need to provide Outgoing Mail Server Hostname"
+msgstr "I dette feltet må du oppgi utgående e-postserver vertsnavn"
+
+#: includes/translations.php:267
+msgid "Cc"
+msgstr "Kopi"
+
+#: includes/translations.php:268
+msgid "Bcc"
+msgstr "Blindkopi"
+
+#: includes/translations.php:269
+msgid "Please provide valid Cc Email Address"
+msgstr "Vennligst legg inn en gyldig e-postadresse i kopifeltet"
+
+#: includes/translations.php:270
+msgid "Please provide valid Bcc Email Address"
+msgstr "Vennligst legg inn en gyldig e-postadresse feltet for blindkopi"
+
+#: includes/translations.php:271
+msgid "Please provide Cc Email"
+msgstr "Vennligst skriv inn en e-postadresse i kopifeltet "
+
+#: includes/translations.php:272
+msgid "Please provide Bcc Email"
+msgstr "Vennligst skriv inn en e-postadresse i blindkopifeltet"
+
+#: includes/translations.php:273
+msgid "Mailer Settings"
+msgstr "Innstillinger for tjenesteleverandør"
+
+#: includes/translations.php:274
+msgid "From Name"
+msgstr "Fra navn"
+
+#: includes/translations.php:275
+msgid ""
+"From Name is the inbox field that tells your recipient who sent the "
+"messages. If you would like to override the pre-configured From Name, then "
+"you would need to insert the name in the inbox field"
+msgstr ""
+"Fra-navnet i innboksfeltet forteller dine mottakere hvem som har sendt e-"
+"posten. Hvis du ønsker å overstyre den prekonfigurerte verdien, da må du "
+"skrive inn navnet i dette feltet."
+
+#: includes/translations.php:276
+msgid "Please provide From Name"
+msgstr "Vennligst skriv inn fra-navnet"
+
+#: includes/translations.php:277
+msgid "From Email"
+msgstr "Fra e-post"
+
+#: includes/translations.php:278
+msgid ""
+"From Email is the inbox field that tells your recipient from which Email "
+"Address the messages are coming. If you would like to override the pre-"
+"configured From Email, then you would need to insert an Email Address in the "
+"inbox field"
+msgstr ""
+"Dette feltet forteller mottakeren hvilken e-postadresse som har blitt brukt "
+"ved sending av e-posten. Hvis du ønsker å overstyre dette, må du skrive inn "
+"en e-postadresse i feltet."
+
+#: includes/translations.php:279
+msgid "Please provide From Email Address"
+msgstr "Vennligst skriv inn en fra-adresse"
+
+#: includes/translations.php:280
+msgid "Mailer Type"
+msgstr "E-posttjeneste"
+
+#: includes/translations.php:281
+msgid ""
+"This field provides you an ability to choose a specific option for Mailer "
+"Type. If you would like to send an Email via SMTP mailer, you would need to "
+"select Send Email via SMTP from the drop down or you could use PHP mail () "
+"Function"
+msgstr ""
+"Dette feltet gir deg mulighet til å velge e-posttjeneste. Hvis du ønsker å "
+"sende e-post gjennom en SMTP-tjeneste, må du velge Send e-post via SMTP fra "
+"nedtrekksmenyen, eller du kan benytte PHP e-post () funksjonen"
+
+#: includes/translations.php:282
+msgid "Send Email via SMTP"
+msgstr "Send e-poster via SMTP"
+
+#: includes/translations.php:283
+msgid "Use The PHP mail() Function"
+msgstr "Bruk PHP e-post() funksjonen"
+
+#: includes/translations.php:284
+msgid "SMTP Host"
+msgstr "SMTP vert"
+
+#: includes/translations.php:285
+msgid ""
+"If you would like to send an Email via different host, you would need to "
+"insert that specific host name like smtp.gmail.com in the inbox field"
+msgstr ""
+"Hvis du ønsker å sende e-post via en annen vert må du skrive inn navnet på "
+"verten f.eks smtp.gmail.com"
+
+#: includes/translations.php:286
+msgid "Please provide SMTP Host"
+msgstr "Vennligst skriv inn SMTP vert"
+
+#: includes/translations.php:287
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: includes/translations.php:288
+msgid ""
+"This inbox field is specified to provide a valid SMTP Port for authentication"
+msgstr ""
+"Dette feltet benyttes til å spesifisere en gyldig SMTP port for autentisering"
+
+#: includes/translations.php:289
+msgid "Please provide SMTP Port"
+msgstr "Vennligst skriv inn SMTP Port"
+
+#: includes/translations.php:290
+msgid "Encryption"
+msgstr "Kryptering"
+
+#: includes/translations.php:291
+msgid ""
+"It provides you an ability to choose a specific option for Encryption. If "
+"you would like to send an Email with TLS encryption, you would need to "
+"select Use TLS Encryption from the drop down or you could use SSL "
+"Encryption. For that you would need to select Use SSL Encryption from the "
+"drop down. If you would like to send an Email without encryption, you would "
+"need to select No Encryption from the drop down"
+msgstr ""
+"Dette gir deg muligheten til å velge form for kryptering. Hvis du ønsker å "
+"sende en e-post med TLS kryptering, er du nødt til å velge Bruk TLS "
+"kryptering fra nedtrekksmenyen eller du kan bruke SSL Kryptering. For det må "
+"du velge Bruk SSL Kryptering fra nedtrekksmenyen. Hvis du ønsker å sende en "
+"e-post uten bruk av kryptering, er du nødt til å velge Ingen kryptering fra "
+"nedtrekksmenyen."
+
+#: includes/translations.php:292
+msgid "No Encryption"
+msgstr "Ingen kryptering"
+
+#: includes/translations.php:293
+msgid "Use SSL Encryption"
+msgstr "Bruk SSL kryptering"
+
+#: includes/translations.php:294
+msgid "Use TLS Encryption"
+msgstr "Bruk TLS kryptering"
+
+#: includes/translations.php:295
+msgid "Authentication"
+msgstr "Autentisering"
+
+#: includes/translations.php:296
+msgid ""
+"This inbox field allows you to choose an appropriate option for "
+"authentication. It provides you the Two-way authentication factor; If you "
+"would like to authenticate yourself via Username and Password, you would "
+"need to select Use Username and Password from the drop down. You can also "
+"authenticate by an OAuth 2.0 protocol, which requires Client Id and Secret "
+"Key, for that you would need to select Use OAuth (Client ID and Secret Key) "
+"from the drop down. You can easily get Client Id and Secret Key from "
+"respective SMTP Server Developers section"
+msgstr ""
+"Dette feltet gir deg muligheten til å velge et passende nivå for "
+"autentisering. Du har mulighet for å velge en to-faktor autentisering; Hvis "
+"du ønsker å autentisere deg selv med brukernavn og passord, må du velge Bruk "
+"brukernavn og passord fra nedtrekksmenyen. Du kan også velge å bruke OAuth "
+"2.0 protokollen, som krever klient id og en hemmelig nøkkel. Du kan enkelt "
+"få klient id og en hemmelig nøkkel fra den respektive SMTP server "
+"utviklerseksjonen."
+
+#: includes/translations.php:297
+msgid "Use SMTP Authentication"
+msgstr "Bruk SMTP Autentisering"
+
+#: includes/translations.php:298
+msgid "Don't Use SMTP Authentication"
+msgstr "Ikke bruk SMTP Autentisering"
+
+#: includes/translations.php:299
+msgid "Test Email Address"
+msgstr "E-postadresse for testing"
+
+#: includes/translations.php:300
+msgid ""
+"In this field, you would need to provide a valid Email Address in the inbox "
+"field on which you would like to receive Test email"
+msgstr ""
+"I dette feltet må du skrive inn en gyldig e-postadresse for mottak av test-"
+"eposter"
+
+#: includes/translations.php:301
+msgid "Please provide Test Email Address"
+msgstr "Vennligst skriv inn e-postadresser for testing"
+
+#: includes/translations.php:302
+msgid "In this field, you would need to provide a subject for Test Email"
+msgstr "I dette feltet må du skrive inn et emne for testing av e-post"
+
+#: includes/translations.php:303
+msgid "Please provide Subject"
+msgstr "Vennligst skriv inn emne"
+
+#: includes/translations.php:304
+msgid "Email Content"
+msgstr "E-post innhold"
+
+#: includes/translations.php:305
+msgid "In this field, you would need to provide the content for Test Email"
+msgstr "I dette feltet må du skrive inn innholdet i test e-posten"
+
+#: includes/translations.php:306
+msgid "Send Test Email"
+msgstr "Send test e-post"
+
+#: includes/translations.php:307
+msgid "SMTP Debugging Output"
+msgstr "SMTP feilsøkings informasjon"
+
+#: includes/translations.php:308
+msgid "Checking your settings"
+msgstr "Kontrollerer dine innstillinger"
+
+#: includes/translations.php:309
+msgid "Result"
+msgstr "Resultat"
+
+#: includes/translations.php:310
+msgid "Send Another Test Email"
+msgstr "Send en ny test e-post"
+
+#: includes/translations.php:311
+msgid "From Name Configuration"
+msgstr "Konfigurasjon av sendernavn"
+
+#: includes/translations.php:312
+msgid ""
+"If you would like to override the pre-configured name which will be used "
+"while sending Emails, then you would need to choose Override from the drop "
+"down and vice-versa"
+msgstr ""
+"Hvis du ønsker å overstyre det fohåndskonfigurerte navnet som vil bli brukt "
+"ved sending av e-poster, må du velge overskriv fra nedtrekksmenyen og vica-"
+"versa."
+
+#: includes/translations.php:313
+msgid "From Email Configuration"
+msgstr "Konfigurasjon av sender"
+
+#: includes/translations.php:314
+msgid ""
+"If you would like to override your pre-configured Email Address which will "
+"be used while sending Emails, then you would need to choose Override from "
+"the drop down and vice-versa"
+msgstr ""
+"Hvis du ønsker å overstyre den fohåndskonfigurerte e-postadressen som vil "
+"bli brukt ved sending av e-poster, må du velge overskriv fra nedtrekksmenyen "
+"og vica-versa."
+
+#: includes/translations.php:315
+msgid "Username"
+msgstr "Brukernavn"
+
+#: includes/translations.php:316
+msgid ""
+"In this field, you would need to provide a username to authenticate your "
+"SMTP details"
+msgstr "I dette feltet må du skrive inn brukernavnet fra din SMTP-leverandør"
+
+#: includes/translations.php:317
+msgid "Please provide username"
+msgstr "Vennligst skriv inn et brukernavn"
+
+#: includes/translations.php:318
+msgid "Password"
+msgstr "Passord"
+
+#: includes/translations.php:319
+msgid ""
+"In this field, you would need to provide a password to authenticate your "
+"SMTP details"
+msgstr "I dette feltet må du skrive inn passordet fra din SMTP-leverandør"
+
+#: includes/translations.php:320
+msgid "Please provide password"
+msgstr "Vennligst skriv inn et passord"
+
+#: includes/translations.php:321
+msgid "Redirect URI"
+msgstr "URI for vidersending"
+
+#: includes/translations.php:322
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"Vennligst kopier denne URI for videresending og lim den inn i feltet for URI "
+"vidersending når du setter opp din applikasjon."
+
+#: includes/translations.php:323
+msgid "Use OAuth (Client Id and Secret Key required)"
+msgstr "Bruk OAuth (Klient id og hemmlig nøkkel påkrevd)"
+
+#: includes/translations.php:324
+msgid "Plain Authentication"
+msgstr "Enkel autorisering"
+
+#: includes/translations.php:325
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+#: includes/translations.php:326
+msgid "Login"
+msgstr "Logg inn"
+
+#: includes/translations.php:327
+msgid "Client Id"
+msgstr "Klient id"
+
+#: includes/translations.php:328
+msgid "Secret Key"
+msgstr "Hemmlig nøkkel"
+
+#: includes/translations.php:329
+msgid "Please provide valid Client Id issued by your SMTP Host"
+msgstr "Vennligst skriv inn en gyldig klient id fra din SMTP-vert"
+
+#: includes/translations.php:330
+msgid "Please provide valid Secret Key issued by your SMTP Host"
+msgstr "Vennligst skriv inn en gyldig hemmelig nøkkel fra din SMTP-vert"
+
+#: includes/translations.php:331
+msgid "Please provide Client Id"
+msgstr "Vennligst skriv inn klient id"
+
+#: includes/translations.php:332
+msgid "Please provide Secret Key"
+msgstr "Vennligst skriv inn din hemmelige nøkkel"
+
+#: includes/translations.php:333
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"Ja, send en test e-post når jeg klikker på \"Neste\" for å verifisere "
+"innstillingene"
+
+#: includes/translations.php:334
+msgid "Email Address"
+msgstr "E-postadresse"
+
+#: includes/translations.php:335
+msgid ""
+"In this field, you would need to add a valid Email Address in the inbox "
+"field from which you would like to send Emails"
+msgstr ""
+"Her må du skrive inn en gyldig e-postadresse som du ønsker å sende e-postene "
+"fra"
+
+#: includes/translations.php:336
+msgid "Please provide valid Email Address"
+msgstr "Vennligst skriv inn en gyldig e-postadresse"
+
+#: includes/translations.php:337
+msgid "Reply To"
+msgstr "Svar til"
+
+#: includes/translations.php:338
+msgid ""
+"In this field, you would need to add a valid Email Address that is "
+"automatically inserted into the Reply To field when a user replies to an "
+"email message"
+msgstr ""
+"Her må du legge inn en gyldig e-postadresse som automatisk legges inn i "
+"svarfeltet når en bruker svarer på en e-postmelding"
+
+#: includes/translations.php:339
+msgid "Please provide Reply To Email Address"
+msgstr "Vennligst legg inn en svaradresse"
+
+#: includes/translations.php:340
+msgid "Get Google Client Id and Secret Key"
+msgstr "Få en Google klientID og en hemmelig nøkkel"
+
+#: includes/translations.php:341
+msgid "Get Microsoft Client Id and Secret Key"
+msgstr "Få Microsoft klientID og en hemmlig nøkkel"
+
+#: includes/translations.php:342
+msgid "Get Yahoo Client Id and Secret Key"
+msgstr "Få Yahoo klientID og en hemmelig nøkkel"
+
+#: includes/translations.php:343
+msgid "None"
+msgstr "Ingen"
+
+#: includes/translations.php:346
+msgid "Start Date"
+msgstr "Startdato"
+
+#: includes/translations.php:347
+msgid "Please provide Start Date"
+msgstr "Vennligst legg inn en startdato"
+
+#: includes/translations.php:348
+msgid "This field shows start date of Email Logs"
+msgstr "Dette feltet viser startdato for e-postlogger"
+
+#: includes/translations.php:349
+msgid "End Date"
+msgstr "Slutt dato"
+
+#: includes/translations.php:350
+msgid "Please provide End Date"
+msgstr "Vennligst legg inn en sluttdato"
+
+#: includes/translations.php:351
+msgid "This field shows ending date of Email Logs"
+msgstr "Dette feltet viser sluttdatoen for e-postloggen"
+
+#: includes/translations.php:352
+msgid "Submit"
+msgstr "Send inn"
+
+#: includes/translations.php:353
+msgid "Bulk Action"
+msgstr "Masseoperasjoner"
+
+#: includes/translations.php:354
+msgid "Delete"
+msgstr "Slett"
+
+#: includes/translations.php:355
+msgid "Apply"
+msgstr "Legg til"
+
+#: includes/translations.php:356
+msgid "Email To"
+msgstr "E-post til"
+
+#: includes/translations.php:357
+msgid "Action"
+msgstr "Handling"
+
+#: includes/translations.php:358
+msgid "Show Details"
+msgstr "Vis detaljer"
+
+#: includes/translations.php:359
+msgid "Email Details"
+msgstr "E-postdetaljer"
+
+#: includes/translations.php:360
+msgid "Email Debugging output"
+msgstr "E-post feilsøkingsresultater"
+
+#: includes/translations.php:362
+msgid "Debugging Output"
+msgstr "Resultat av feilsøking"
+
+#: includes/translations.php:363
+msgid "Show Debugging Output"
+msgstr "Vis resultat av feilsøking"
+
+#: includes/translations.php:364
+msgid "Email Sent To"
+msgstr "E-post sendt til"
+
+#: includes/translations.php:365
+msgid "Date/Time"
+msgstr "Dato/tid"
+
+#: includes/translations.php:367
+msgid "From"
+msgstr "Fra"
+
+#: includes/translations.php:368
+msgid "Back to Email Logs"
+msgstr "Tilbake til e-postlogg"
+
+#: includes/translations.php:369
+msgid "Resent"
+msgstr "mislike"
+
+#: includes/translations.php:376
+msgid "Automatic Plugin Updates"
+msgstr "Automatisk oppdatering av plugin"
+
+#: includes/translations.php:377
+msgid ""
+"Please choose a specific option whether to allow Automatic Plugin Updates"
+msgstr ""
+"Vennligst spesifiser et valg hvorvidt du ønsker automatiske oppdateringer"
+
+#: includes/translations.php:378
+msgid "Debug Mode"
+msgstr "Feilsøkingsmodus"
+
+#: includes/translations.php:379
+msgid "Please choose a specific option for Debug Mode"
+msgstr "Vennligst foreta et valg i forhold til feilsøkingsstatus"
+
+#: includes/translations.php:380
+msgid "Remove Tables at Uninstall"
+msgstr "Fjern tabeller ved avinstallasjon"
+
+#: includes/translations.php:381
+msgid ""
+"Please choose a specific option whether to allow Remove Tables at Uninstall"
+msgstr ""
+"Vennligst foreta et valg i forhold til å tillate sletting av tabeller ved "
+"avinstallasjon"
+
+#: includes/translations.php:382
+msgid "Monitoring Email Logs"
+msgstr "Overvåke e-postlogger"
+
+#: includes/translations.php:383
+msgid "This field is used to allow Email Logs to monitor or not"
+msgstr "Dette feltet benyttes til å tillatte e-postlogging eller ikke"
+
+#: includes/translations.php:384
+msgid "Error Reporting"
+msgstr "Feilrapportering"
+
+#: includes/translations.php:385
+msgid ""
+"If you would like to Report your Errors in Error Logs Menu, then you would "
+"need to Choose Enable from dropdown or vice-versa"
+msgstr ""
+"Hvis du vil rapportere feilene dine i feilloggmenyen, må du velge Aktiver "
+"fra rullegardin eller omvendt"
+
+#: includes/translations.php:389
+msgid "Show Mail Booster Menu"
+msgstr "Vis Mail Booster menyen"
+
+#: includes/translations.php:390
+msgid "Please choose a specific role who can see Sidebar Menu"
+msgstr "Vennligst velg hvilke roller som kan se sidebarmenyen"
+
+#: includes/translations.php:391
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/translations.php:392
+msgid "Author"
+msgstr "Forfatter"
+
+#: includes/translations.php:393
+msgid "Editor"
+msgstr "Redigerer"
+
+#: includes/translations.php:394
+msgid "Contributor"
+msgstr "Bidragsyter"
+
+#: includes/translations.php:395
+msgid "Subscriber"
+msgstr "Abonnent"
+
+#: includes/translations.php:396
+msgid "Others"
+msgstr "Andre"
+
+#: includes/translations.php:397
+msgid "Show Mail Booster Top Bar Menu"
+msgstr "Vis Mail Booster i toppmenyen"
+
+#: includes/translations.php:398
+msgid "Please choose a specific option from Mail Booster Top Bar Menu"
+msgstr "Vennligst velg et spesifikt alternativ for Mail Booster toppmeny"
+
+#: includes/translations.php:399
+msgid "An Administrator Role can do the following "
+msgstr "En administrator kan gjøre følgende"
+
+#: includes/translations.php:400
+msgid "Please choose specific page available for the Administrator Access"
+msgstr ""
+"Vennligst velg spesifikke sider som er tilgjengelig for administratorer"
+
+#: includes/translations.php:401
+msgid "Full Control"
+msgstr "Full kontroll"
+
+#: includes/translations.php:402
+msgid "An Author Role can do the following "
+msgstr "En redaktør kan gjøre følgende"
+
+#: includes/translations.php:403
+msgid "Please choose specific page available for Author Access"
+msgstr "Vennligst velg spesifikke sider som er tilgjengelig for redaktører"
+
+#: includes/translations.php:404
+msgid "An Editor Role can do the following "
+msgstr "En forfatter kan gjøre følgende"
+
+#: includes/translations.php:405
+msgid "Please choose specific page available for Editor Access"
+msgstr "Vennligst velg spesifikke sider som er tilgjengelig for forfattere"
+
+#: includes/translations.php:406
+msgid "A Contributor Role can do the following "
+msgstr "En bidragsyter kan gjøre følgende"
+
+#: includes/translations.php:407
+msgid "Please choose specific page available for Contributor Access"
+msgstr "Vennligst velg spesifikke sider som er tilgjengelig for bidragsytere"
+
+#: includes/translations.php:408
+msgid "Other Roles can do the following "
+msgstr "Andre roller kan gjøre følgende"
+
+#: includes/translations.php:409
+msgid "Please choose specific page available for Others Role Access"
+msgstr "Vennligst velg spesifikke sider som er tilgjengelig for andre roller"
+
+#: includes/translations.php:410
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Vennligst huk av de passende områdene for sikkerhets formål"
+
+#: includes/translations.php:411
+msgid "Only users with these capabilities can access Mail Booster"
+msgstr "Bare brukere med disse rettighetene får tilgang til Mail Booster"
+
+#: includes/translations.php:412
+msgid "A Subscriber Role can do the following"
+msgstr "En abonnent kan gjøre følgende"
+
+#: includes/translations.php:413
+msgid "Please choose specific page available for Subscriber Access"
+msgstr "Vennligst velg spesifikke sider som er tilgjengelig for abonnenter"
+
+#: includes/translations.php:416
+msgid "Thank You!"
+msgstr "Tusen takk!"
+
+#: includes/translations.php:417
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Vennligst fyll inn skjemaet nedenfor, hvis du har forslag på funksjoner som "
+"ennå ikke er i denne utvidelsen"
+
+#: includes/translations.php:418
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Hvis du i tillegg har noen forslag eller klager, kan du benytte det samme "
+"skjemaet."
+
+#: includes/translations.php:419
+msgid "You can also write us on"
+msgstr "Du kan også skrive til oss på"
+
+#: includes/translations.php:421
+msgid "Please provide your Name which will be sent along with your Feedback"
+msgstr ""
+"Vennligst skriv inn ditt navn som vil bli sendt sammen med din tilbakemelding"
+
+#: includes/translations.php:424
+msgid ""
+"Please provide your Email Address which will be sent along with your Feedback"
+msgstr ""
+"Vennligst skriv inn din e-postadresse som vil bli sendt sammen med din "
+"tilbakemelding"
+
+#: includes/translations.php:426
+msgid "Please provide your Feedback which will be sent along"
+msgstr "Vennligst skriv inn din tilbakemelding"
+
+#: includes/translations.php:427
+msgid "Please provide your Feedback"
+msgstr "Vennligst skriv inn din tilbakemeleding"
+
+#: includes/translations.php:428
+msgid "Send Feedback"
+msgstr "Send tilbakemelding"
+
+#: includes/translations.php:431
+msgid "Sending Test Email to"
+msgstr "Send testmelding til"
+
+#: includes/translations.php:432
+msgid "Email Status"
+msgstr "E-post status"
+
+#: includes/translations.php:437
+msgid "In this field you would be able to see all Php Errors"
+msgstr "I dette feltet vil du kunne se alle Php-feil"
+
+#: includes/translations.php:438
+msgid "Download Error Logs"
+msgstr "Last ned feillogger"
+
+#: includes/translations.php:439
+msgid "Clear Error Logs"
+msgstr "Fjern feillogger"
+
+#: includes/translations.php:440
+msgid "Output"
+msgstr "Produksjon"
+
+#: includes/translations.php:441
+msgid "Error Logs has been cleared successfully"
+msgstr "Feillogger har blitt slettet med hell"
+
+#~ msgid "Your request email has been sent Successfully"
+#~ msgstr "Din forespørsel har blitt sendt"
+
+#~ msgid "Roles & Capabilities have been updated Successfully"
+#~ msgstr "Roller og rettigheter har blitt oppdatert"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "Vennligst velg et alternativ fra nedtrekksmenyen"
+
+#~ msgid "Please choose at least 1 record to delete!"
+#~ msgstr "Vennligst velg minst én oppføring for sletting!"
+
+#~ msgid "Are you sure you want to delete Email Logs?"
+#~ msgstr "Er du sikker på at du vil slette e-postloggene?"
+
+#~ msgid "Selected Logs have been deleted Successfully"
+#~ msgstr "De valgte e-postloggene har blitt slettet"
+
+#~ msgid "Are you sure you want to delete Email Log?"
+#~ msgstr "Er du sikker på at du vil slette disse e-postloggene"
+
+#~ msgid "Email Log has been deleted Successfully"
+#~ msgstr "E-postloggene har blitt slettet"
+
+#~ msgid "Invalid Secret Key. Please rectify and try again!"
+#~ msgstr ""
+#~ "Den hemmelige nøkkelen er ugyldig. Vennligst kontrollér og forsøk igjen!"
+
+#~ msgid "Licensing"
+#~ msgstr "Lisensiering"
+
+#~ msgid "Your Email has been Resent Successfully"
+#~ msgstr "Din epost har vært Resent Successfully"
+
+#~ msgid "Unfortunately, Your Email has not been Sent"
+#~ msgstr "Dessverre har e-posten din ikke blitt sendt"
+
+#~ msgid "Are you sure you want to Resend Email?"
+#~ msgstr "Er du sikker på at du vil sende e-post på nytt?"
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "Din lisens har blitt aktivert"
+
+#~ msgid "Settings"
+#~ msgstr "Innstillinger"
+
+#~ msgid "Not available"
+#~ msgstr "Ikke tilgjengelig"
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Mail "
+#~ "Booster. Please contact your WebHost to setup these extensions on your "
+#~ "server."
+#~ msgstr ""
+#~ "Følgende php-tillegg finnes ikke på din server og er for øyeblikket "
+#~ "avslått. Dette kan muligens skape noen problemer for konfigurasjonen av "
+#~ "Mail Booster. Vennligst kontakt leverandøren av ditt webhotell for å få "
+#~ "installert disse tilleggene på din server."
+
+#~ msgid "Important Notice!"
+#~ msgstr "Viktig melding!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Booster Business "
+#~ "Edition and now you would need to activate the license in order to unlock "
+#~ "it!"
+#~ msgstr ""
+#~ "Gratulerer! Du har akkurat kjøpt Mail Booster Business Edition og nå må "
+#~ "du aktivere lisensen for å åpne for nye funksjoner!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Vennligst fyll inn de påkrevde detaljene og klikk på Valider lisens for å "
+#~ "få tilgang til nye funksjoner"
+
+#~ msgid ""
+#~ "If you face any issues activating the license, you may contact us at "
+#~ msgstr "Hvis du møter problemer under aktiveringen, kan du kontakte oss her"
+
+#~ msgid "Product Name"
+#~ msgstr "Produktnavn"
+
+#~ msgid "Current Version"
+#~ msgstr "Gjeldende versjon"
+
+#~ msgid "Website URL"
+#~ msgstr "Nettside URL"
+
+#~ msgid "Order ID"
+#~ msgstr "Ordre nummer"
+
+#~ msgid "API KEY"
+#~ msgstr "API nøkkel"
+
+#~ msgid "Validate License"
+#~ msgstr "Valider lisens"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "Dette feltet viser dine installerte produkter"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "Dette feltet viser dine installerte produktversjoner"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "Dette feltet viser URLen for din nettside"
+
+#~ msgid ""
+#~ "Please provide your Order ID  which you have received after purchasing "
+#~ "the Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Vennligst skriv inn ditt ordrenummer som du mottok ved kjøp av produktet. "
+#~ "Dette vil bli benyttes under validering av lisensen."
+
+#~ msgid ""
+#~ "Please provide your API Key which you have received after purchasing the "
+#~ "Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Vennligst skriv inn API-nøkkelen som du mottok ved kjøp av produktet. "
+#~ "Dette vil bli benyttes under validering av lisensen."
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "Vennligst skriv inn ordrenummeret som du mottok etter kjøpet"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr ""
+#~ "Vennligst skriv inn API-nøkkelen som du mottok etter at du gjennomførte "
+#~ "kjøpet"
+
+#~ msgid "There is no changelog available."
+#~ msgstr "Det er ingen changelog tilgjengelig."
+
+#~ msgid "Check for updates"
+#~ msgstr "Se etter oppdateringer"
+
+#~ msgid "This plugin is up to date."
+#~ msgstr "Dette pluginet er oppdatert."
+
+#~ msgid "A new version of this plugin is available."
+#~ msgstr "En ny versjon av denne plugin er tilgjengelig."
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "Ukjent oppdateringskontrollstatus \"% s\""
+
+#~ msgid "This field shows starting date of Email Logs"
+#~ msgstr "Dette feltet viser stardatoen for e-postloggen"
+
+#~ msgid "Mail Bank"
+#~ msgstr "Mail Bank"
+
+#~ msgid "Email Setup"
+#~ msgstr "Oppsett av e-post"
+
+#~ msgid "Email Setup has been updated Successfully"
+#~ msgstr "E-postoppsettet har blitt oppdatert"
+
+#~ msgid "* Openssl extension not found or disabled"
+#~ msgstr "*OpenSSL utvidelse er ikke funnet eller deaktivert"
+
+#~ msgid "Show Mail Bank Menu"
+#~ msgstr "Vis Mail Bank menyen"
+
+#~ msgid "Show Mail Bank Top Bar Menu"
+#~ msgstr "Vis Mail Bank i toppmenyen"
+
+#~ msgid "Please choose a specific option from Mail Bank Top Bar Menu"
+#~ msgstr "Vennligst velg et spesifikt alternativ for Mail Bank toppmeny"
+
+#~ msgid "Only users with these capabilities can access Mail Bank"
+#~ msgstr "Bare brukere med disse rettighetene får tilgang til Mail Bank"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank Business Edition "
+#~ "and now you would need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "Gratulerer! Du har akkurat kjøpt Mail Bank Business Edition og nå må du "
+#~ "aktivere lisensen for å åpne for nye funksjoner!"
+
+#~ msgid "Use Username And Password"
+#~ msgstr "Brukernavn og passord"
+
+#~ msgid "If you would like to translate in "
+#~ msgstr "Hvis du ønsker å oversette til"
+
+#~ msgid ""
+#~ " & help us, we will reward you with a free Personal Edition License of "
+#~ "Mail Bank. If Interested, Kindly click "
+#~ msgstr ""
+#~ "& hjelp oss, vi vil belønne deg med en gratis personlig uitviklerlisens "
+#~ "av Mail Bank. Hvis du er interessert, vennligst klikk"
+
+#~ msgid "here"
+#~ msgstr "her"
+
+#~ msgid "Please choose a language which you want to translate"
+#~ msgstr "Vennligst velg et språk du ønsker å oversette"
+
+#~ msgid "Please provide a language"
+#~ msgstr "Vennligst velg et språk"
+
+#~ msgid "Please provide your query"
+#~ msgstr "Vennligst legg inn et spørsmål"
+
+#~ msgid "Please provide your Email"
+#~ msgstr "Vennligst legg inn din e-postadresse"
+
+#~ msgid "* Click "
+#~ msgstr "* Klikk"
+
+#~ msgid "here "
+#~ msgstr "her"
+
+#~ msgid " to see Premium Edition Features in detail"
+#~ msgstr "for å se detaljer om premiumversjoner"
+
+#~ msgid "* For Mail Bank Demos, click "
+#~ msgstr "* For demoer av Mail Bank, klikk"
+
+#~ msgid "* For Mail Bank User Guide for this page, click "
+#~ msgstr "* For Mail Bank sin brukerveiledning for denne siden, klikk"
+
+#~ msgid "* Filters "
+#~ msgstr "Filter"
+
+#~ msgid "* Reply to, Cc and Bcc Fields "
+#~ msgstr "* Svar til-, kopi- og blindkopifelt"
+
+#~ msgid "* Deleting Email Logs "
+#~ msgstr "* Slett e-postlogg"
+
+#~ msgid "* Debugging Output"
+#~ msgstr "* Feilsøkings informasjon"
+
+#~ msgid "* Email Logs Details "
+#~ msgstr "* E-post detaljlogg"
+
+#~ msgid "* Saving Roles & Capabilities "
+#~ msgstr "* Lagre roller og evner"
+
+#~ msgid " Premium Edition Features :"
+#~ msgstr " Funksjoner i premiumversjonen : "
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Mail "
+#~ "Bank. Please contact your WebHost to setup these extensions on your "
+#~ "server."
+#~ msgstr ""
+#~ "Følgende php-tillegg finnes ikke på din server og er for øyeblikket "
+#~ "avslått. Dette kan muligens skape noen problemer for konfigurasjonen av "
+#~ "Mail Bank. Vennligst kontakt leverandøren av ditt webhotell for å få "
+#~ "installert disse tilleggene på din server."
+
+#~ msgid " Features available in Business and Developer Editions :"
+#~ msgstr " Funksjoner tilgjengelig i Bedrift og utvikler versjoner :"
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Editions! <br> "
+#~ "Kindly Purchase to unlock it!."
+#~ msgstr ""
+#~ " Denne funksjonen er kun tilgjengelig i Bedrift- og utviklerversjoner! "
+#~ "<br> Vennligst kjøp for å få tilgang til funksjonene!."
+
+#~ msgid "* Bulk Delete "
+#~ msgstr "* Massesletting"
+
+#~ msgid "* Debugging Output "
+#~ msgstr " * Feilsøkings informasjon"
+
+#~ msgid "Premium Editions"
+#~ msgstr "Premiumversjoner"
